@@ -1,0 +1,302 @@
+@startuml "Elearning website applicate"
+
+class User{
+    userId: Guid
+    name: name
+    email: email
+    contact: contact 
+    photo: photo 
+    type: type
+    password: password
+    passwordConfirm: passwordConfirm
+    passwordChangedAt: Date 
+    passwordResetToken: String
+    passwordResetExpires: Date 
+    status: status
+}
+User *-- name
+User *-- email
+User *-- contact
+User *-- photo
+User *-- type
+User *-- password
+User *-- passwordConfirm
+User *-- status
+
+class Courses{
+    courseId: Guid
+    name: nameC
+    slug: String
+    duration: duration 
+    maxGroupSize: Number 
+    difficulty: difficulty
+    ratingsAverage: Number 
+    ratingsQuantity: Number  
+    price: Number
+    priceDiscount: Number 
+    summary: String
+    description: String
+    imageCover: String
+    images: List<String>
+    createdAt: Date 
+    startDates: List<Date>
+    category: String
+    userId: Guid
+}
+Courses *-- nameC
+Courses *-- duration
+Courses *-- difficulty
+
+class Review{
+    reviewId: Guid
+    review: String
+    rating: rating
+    createdAt: Date  
+    courseId: Guid
+    userId: Guid
+}
+Review *-- rating
+
+class Options{
+    optionId: Guid
+    optbody: String
+    isAnswer: Boolean
+    optimg: String  
+    
+}
+
+class Answers{
+    answerId: Guid
+    questionid: String
+    userId: Guid
+    optionid: Guid
+}
+
+class Subject{
+    subjectId: Guid
+    topic: String
+    userId: Guid
+    status: Boolean  
+    
+}
+
+class Question{
+    questionId: Guid
+    body: String
+    weightage: Number
+    anscount: Number 
+    optionId: Guid
+    explanation: String
+    subjectId: Guid
+    quesimg: String
+    difficulty: Number
+    userId: Guid
+    status: Boolean 
+}
+
+class SubResults{
+    subResultId: Guid
+    questionId: Guid
+    explanation: String
+    correctAnswer: Array
+    givenAnswer: Array
+    weightage: Number
+    iscorrect: Boolean  
+    
+}
+
+class Test{
+    testId: Guid
+       
+}
+
+class TestPaper{
+    testPaperId: Guid
+    type: String
+    title: String
+    questionId: Guid
+    subjectId: Guid
+    duration: Number
+    organisation: String
+    difficulty: Number
+    testbegins: Boolean  
+    status: Boolean
+    userId: Guid
+    isRegistrationavailable: Boolean
+    testconducted: Boolean
+    isResultgenerated: Boolean
+    
+}
+
+class TraineeEnter{
+    traineeEnterId: Guid
+    name: String
+    email: String
+    contact: Number
+    organisation: String
+    testPaperId: Guid
+    location: String  
+    
+}
+
+class TraineeTests{
+    traineeTestsId: Guid
+       
+}
+
+class Answersheet{
+    answersheetId: Guid
+    startTime: Number
+    testPaperId: Guid
+    userId: Guid
+    questionId: Guid
+    answerId: Guid
+    completed: Boolean  
+    
+}
+
+class Feedbacks{
+    feedbacksId: Guid
+    feedback: String
+    rating: Number
+    traineeEnterId: Guid
+    testPaperId: Guid
+    
+}
+
+class Results{
+    resultsId: Guid
+    testPaperId: Guid
+    traineeEnterId: Guid
+    answersheetId: Guid
+    subResultId: Guid
+    score: Number
+}
+
+enum name { 
+    type: String 
+    required: required
+}
+name *-- required
+enum nameC { 
+    type: String 
+    required: required
+    unique: true
+    trim: true
+    maxLength: maxLength
+    minLength: minLength
+}
+enum maxLength{
+    40, A course name must have less or equal than 40 characters
+}
+enum minLength{
+    10, A course name must have more or equal than 10 characters
+}
+nameC *-- required
+nameC *-- maxLength
+nameC *-- minLength
+enum duration{
+    type:Number
+    required:required
+}
+duration *-- required
+enum difficulty{
+    type:String
+    required:required
+    enum:enumC
+}
+difficulty *-- required
+difficulty *-- enumC
+enum enumC{ 
+    easy, medium, difficult 
+} 
+enum rating {
+    type: Number
+    min: 1
+    max: 5
+}
+enum email{
+    type: String
+    required: required
+    unique: true
+    lowercase: true 
+    validate: validate 
+}
+email *-- required
+email *-- validate
+enum contact {
+    required : required
+    type : String
+    unique : false
+}
+contact *-- required
+enum photo {
+    type: String
+}
+enum type{
+    type: String
+    enum: enumu
+}
+type *-- enumu
+enum password{
+    type: String
+    required: required
+    minlength: 8
+    select: false
+
+}
+password *-- required
+enum passwordConfirm{
+    type: String
+    required: required
+}
+passwordConfirm *-- required
+enum status { 
+    type: Boolean
+    default: true 
+    select: false 
+}
+enum required{
+    true, 
+    Please tell us your name!, 
+    Please provide your email, 
+    Please provide your contact, 
+    Please provide a password, 
+    Please confirm your password,
+    A course must have a duration,
+    A course must have a difficulty
+}
+enum validate{
+    validator.isEmail, Please provide a valid email
+}
+enum enumu{
+    LEARNER, TRAINER, ADMIN
+}
+
+User "1" o-- "n" Courses
+Courses "1" *-- "n" Review
+User "1" *-- "n" Review
+
+User "1" o-- "n" Answers
+Options "1" *-- "n" Answers
+Options "1" o-- "n" Question
+User "1" o-- "n" Question
+Subject "1" *-- "n" Question
+User "1" o-- "n" Subject
+Question "1" o-- "n" SubResults  
+Subject "1" *-- "n" TestPaper
+Question "1" *-- "n" TestPaper
+User "1" *-- "n" TestPaper
+TestPaper "1" *-- "n" TraineeEnter
+TestPaper "1" *-- "n" Answersheet
+User "1" *-- "n" Answersheet
+Question "1" *-- "n" Answersheet
+Answers "1" *-- "n" Answersheet
+TraineeEnter "1" *-- "n" Feedbacks
+TestPaper "1" o-- "n" Feedbacks
+TestPaper "1" *-- "n" Results
+TraineeEnter "1" *-- "n" Results
+Answersheet "1" *-- "n" Results
+SubResults "1" *-- "n" Results
+
+@enduml

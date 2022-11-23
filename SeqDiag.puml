@@ -1,0 +1,14 @@
+@startuml sequenceDiag
+skinparam Style strictuml
+User -> System:Registration req
+User <-- System: Registration Form
+User -> System: Filled and submit
+User <-- System: Registered success
+User -> System: Login req
+User <--- System: Login Form
+User -> System: Filled and submit
+User <-- System: Logged success
+User -> System: perform allowed action 
+User <-- System: success
+
+@enduml

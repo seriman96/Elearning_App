@@ -1,0 +1,39 @@
+@startuml usecaseDG
+
+rectangle "m2Learning"{
+    'creating actor
+    actor loggedInUser
+    actor loggedOutUser
+    actor ADMIN
+    actor TRAINER
+    actor LEARNER
+
+    'Adding extensions
+    loggedOutUser <|-- loggedInUser
+    loggedInUser <|-- ADMIN
+    ADMIN <|-- TRAINER
+    TRAINER <|-- LEARNER
+
+    'Usecase for loggedOut user
+    loggedOutUser --right-> (Login)
+    Login <. (Register): include
+
+    'Usecase for loggedIn user
+    loggedInUser --right-> (Logout)
+    loggedInUser --right-> (Search courses)
+    loggedInUser --left-> (View profile)
+    (Search courses) .down.> (View courses): extends
+    (View courses) .down.> (Buy courses): extends
+
+    'Usecase for ADMIN user
+    ADMIN --down-> (CRUD courses)
+    ADMIN --down-> (CRUD Trainer)
+    ADMIN --down-> (Manage Exam)
+
+    'Usecase for TRAINER user
+    TRAINER --down-> (CRUD courses)
+
+    'Usecase for LEARNER user
+    LEARNER --down-> (Review courses)
+}
+@enduml

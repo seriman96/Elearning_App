@@ -1,0 +1,1267 @@
+[
+  {
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["db1.jpg", "db2.jpeg", "db3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Developing a Big Data Strategy",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 497,
+    "summary": "A well-defined and comprehensive big data strategy lays out what's needed to become a more data-driven -- and thus successful -- organization.",
+    "description": "Smart organizations use vast quantities and various types of data to better understand their customers, track inventory, improve logistics and operational processes and make informed business decisions.",
+    "imageCover": "db1.jpg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["db2.jpeg", "db3.jpg", "db4.jpeg"],
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Big Data Analytics Tools",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 397,
+    "summary": "Companies use big data technologies and tools to assess and predict behavior on a wide scale in order to improve decision-making processes.",
+    "description": "Big data refers to volumes of structured and unstructured data. Big data technology is the umbrella term for data frameworks, including tools and techniques used to investigate and transform data.",
+    "imageCover": "db2.jpeg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["db3.jpg", "db4.jpeg", "db5.jpeg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Exploratory Big Data",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 997,
+    "summary": "Recent technological breakthroughs have exponentially reduced the cost of data storage and compute, making it easier and less expensive to store more data than ever before. ",
+    "description": "Today, big data has become capital. Think of some of the world's biggest tech companies. A large part of the value they offer comes from their data, which they're constantly analyzing to produce more efficiency and develop new products.",
+    "imageCover": "db3.jpg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["db4.jpeg", "db5.jpeg", "db6.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Big Data Analytics",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "Breathing in Nature in America's most spectacular National Parks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "db4.jpeg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["db5.jpeg", "db6.jpg", "db7.jpeg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Advanced Data Analytics",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 1197,
+    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "imageCover": "db5.jpeg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["db6.jpg", "db7.jpeg", "db8.jpeg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Recurrent Big Data Analytics Tools",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "db6.jpg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["db2.jpeg", "db1.jpg", "db5.jpeg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Big Data Analysis Process",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "db7.jpeg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["db6.jpg", "db3.jpg", "db8.jpeg"],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Big Data Analysis",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1497,
+    "summary": "Enjoy the Northern Lights in one of the best places in the world",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "db8.jpeg",
+    "category": "Big Data"
+  },
+  {
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["ds2.jpeg", "ds3.jpeg", "ds4.jpeg"],
+    "startDates": [
+      "2021-02-12T10:00:00.000Z",
+      "2021-04-14T09:00:00.000Z",
+      "2021-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Data Science Discovery",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 1997,
+    "summary": "It aims to support basic data science literacy to all through clear, understandable lessons, real-world examples, and support.",
+    "description": "Data Science Discovery is an open-source data science resource",
+    "imageCover": "ds1.jpeg",
+    "category": "Data Science"
+  },
+
+
+
+  {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["ds1.jpeg", "ds2.jpeg", "ds3.jpeg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2905",
+      "name": "Data Science Resources",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "ds2.jpeg",
+      "category": "Data Science"
+    },
+    {
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["ds3.jpeg", "ds4.jpeg", "ds5.jpeg"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2051",
+      "name": "Data Science Today",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 397,
+      "summary": "Breathtaking hike through the Canadian Banff National Park",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "ds3.jpeg",
+      "category": "Data Science"
+    },
+    {
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["ds1.jpeg", "ds3.jpeg", "ds5.jpeg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c095a",
+      "name": "The adventure of Data Science",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "ds4.jpeg",
+      "category": "Data Science"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["ds2.jpeg", "ds5.jpeg", "ds1.jpeg"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2960",
+      "name": "Data Science Future Trends",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 1497,
+      "summary": "Breathing in Nature in America's most spectacular National Parks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+      "imageCover": "ds5.jpeg",
+      "category": "Data Science"
+    },
+    {
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["dep1.jpg", "dep2.png", "dep3.jpeg"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c291d",
+      "name": "Deep Learning",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 1197,
+      "summary": "With deep neural networks becoming more complex, training times have increased dramatically, resulting in lower productivity and higher costs.",
+      "description": "Our deep learning systems ship with the latest AI development tools installed in a way that best suits your development needs, whether you prefer containerized environments or natively installed frameworks.",
+      "imageCover": "dep1.jpg",
+      "category": "Deep Learning"
+    },
+    {
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["dep3.jpeg", "dep4.jpg", "dep5.jpg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2766",
+      "name": "Deep Neural Network Architecture",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 2997,
+      "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+      "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+      "imageCover": "dep2.png",
+      "category": "Deep Learning"
+    },
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["dep4.jpg", "dep5.jpg", "dep6.jpg"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda79709c2970",
+      "name": "Pre-Training and Fine-Tuning DNN", 
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 2997,
+      "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "dep3.jpeg",
+      "category": "Deep Learning"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["dep1.jpg", "dep3.jpeg", "dep4.jpg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2910",
+      "name": "Deep Neural Network Concept",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 1497,
+      "summary": "Enjoy the Northern Lights in one of the best places in the world",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "dep4.jpg",
+      "category": "Deep Learning"
+    },
+    {
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["dep2.png", "dep5.jpg", "dep1.jpg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c206f",
+      "name": "Deep Neural Network Optimization",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 1997,
+      "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "dep5.jpg",
+      "category": "Deep Learning"
+    },
+
+
+
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["dep1.jpg", "dep6.jpg", "dep5.jpg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda32709c2955",
+      "name": "Deep Learning Process",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "dep6.jpg",
+      "category": "Deep Learning"
+    },
+    {
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["iot1.jpeg", "iot2.jpeg", "iot3.png"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2941",
+      "name": "Internet of Things",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 397,
+      "summary": "This course is designed for anyone who is interested in IoT and for those who are preparing to take courses within the Internet of Things graduate certificate program.",
+      "description": "The Internet of Things is transforming our physical world into a complex and dynamic system of connected devices on an unprecedented scale.",
+      "imageCover": "iot1.jpeg",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["iot2.jpeg", "iot3.png", "iot4.jpeg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c205a",
+      "name": "Real World Internet of Things",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "iot2.jpeg",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["iot4.jpeg", "iot5.jpeg", "iot6.png"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c296f",
+      "name": "Home Automation IOT",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 1497,
+      "summary": "Breathing in Nature in America's most spectacular National Parks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+      "imageCover": "iot3.png",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["iot1.jpeg", "iot4.jpeg", "iot6.png"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c299d",
+      "name": "Physical Devices Structures IOT",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 1197,
+      "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+      "imageCover": "iot4.jpeg",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["iot5.jpeg", "iot2.jpeg", "iot4.jpeg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2936",
+      "name": "IOT Online courses",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 2997,
+      "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+      "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+      "imageCover": "iot5.jpeg",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["iot2.jpeg", "iot1.jpeg", "iot5.jpeg"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c217d",
+      "name": "Things Interconnected IOT",
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 2997,
+      "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "iot6.png",
+      "category": "Internet of Things"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["ml6.jpg", "ml1.jpeg", "ml2.jpg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2904",
+      "name": "Machine Learning Course",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 1497,
+      "summary": "ML is seen as a part of artificial intelligence.",
+      "description": "Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.",
+      "imageCover": "ml6.jpg",
+      "category": "Machine Learning"
+    },
+    {
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["ml1.jpeg", "ml3.jpg", "ml4.jpeg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c376c",
+      "name": "Machine Learning Ideas",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 1997,
+      "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "ml1.jpeg",
+      "category": "Machine Learning"
+    },
+
+
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["ml3.jpg", "ml4.jpeg", "ml5.jpeg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2915",
+      "name": "Machine Learning Today",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "ml2.jpg",
+      "category": "Machine Learning"
+    },
+    {
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["ml6.jpg", "ml3.jpg", "ml2.jpg"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c8951",
+      "name": "Machine Learning Process",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 397,
+      "summary": "Breathtaking hike through the Canadian Banff National Park",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "ml3.jpg",
+      "category": "Machine Learning"
+    },
+    {
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["ml1.jpeg", "ml4.jpeg", "ml5.jpeg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39759c295a",
+      "name": "Machine Learning Training steps",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "ml4.jpeg",
+      "category": "Machine Learning"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["ml5.jpeg", "ml2.jpg", "ml4.jpeg"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c0961",
+      "name": "Machine Learning Features",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 1497,
+      "summary": "Breathing in Nature in America's most spectacular National Parks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+      "imageCover": "ml5.jpeg",
+      "category": "Machine Learning"
+    },
+    {
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["nlp6.jpg", "nlp1.png", "nlp2.jpeg"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf5afda39709c295d",
+      "name": "NLP Programing",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 1197,
+      "summary": "NLP is all about how computers work with human language. ",
+      "description": "From your virtual assistant recommending a restaurant to that terrible autocorrect you sent your parents, natural language processing (NLP) is a rapidly growing presence in our lives. ",
+      "imageCover": "nlp6.jpg",
+      "category": "Natural Language Processing"
+    },
+    {
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["nlp3.jpg", "nlp4.jpg", "nlp5.jpeg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2916",
+      "name": "NLP Tutorial",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 2997,
+      "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+      "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+      "imageCover": "nlp1.png"
+    },
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["nlp1.png", "nlp6.jpg", "nlp2.jpeg"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2000",
+      "name": "NLP Concept",
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 2997,
+      "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "nlp2.jpeg",
+      "category": "Natural Language Processing"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["nlp2.jpeg", "nlp4.jpg", "nlp3.jpg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2934",
+      "name": "NLP Discovery",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 1497,
+      "summary": "Enjoy the Northern Lights in one of the best places in the world",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "nlp3.jpg",
+      "category": "Natural Language Processing"
+    },
+    {
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["nlp2.jpeg", "nlp1.png", "nlp6.jpg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c276c",
+      "name": "Crash Course of NLP",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 1997,
+      "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "nlp4.jpg",
+      "category": "Natural Language Processing"
+    },
+
+
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["nlp4.jpg", "nlp5.jpeg", "nlp2.jpeg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2994",
+      "name": "NLP Ideas overview",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "nlp5.jpeg",
+      "category": "Natural Language Processing"
+    },
+    {
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["py6.jpg", "py1.png", "py2.jpeg"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2981",
+      "name": "Python Programing Tutorial",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 397,
+      "summary": "An amazing programing language with large application area",
+      "description": "An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming",
+      "imageCover": "py6.jpg",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["py1.png", "py2.jpeg", "py5.jpg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c245a",
+      "name": "Advanced Python Programing",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "py1.png",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["py3.jpg", "py4.png", "py5.jpg"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2902",
+      "name": "Benefits of Python",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 1497,
+      "summary": "Breathing in Nature in America's most spectacular National Parks",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+      "imageCover": "py2.jpeg",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["py5.jpg", "py4.png", "py2.jpeg"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39609c295d",
+      "name": "Python Programing Trends",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 1197,
+      "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+      "imageCover": "py3.jpg",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["py1.png", "py6.jpg", "py2.jpeg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2996",
+      "name": "Python Programing Coding",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 2997,
+      "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
+      "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+      "imageCover": "py4.png",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["py3.jpg", "py4.png", "py5.jpg"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2170",
+      "name": "Python Programing Features",
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 2997,
+      "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "py5.jpg",
+      "category": "Python Programing"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["sec1.jpeg", "sec2.jpeg", "sec3.jpg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2954",
+      "name": "Cyber Security Tutorial",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 1497,
+      "summary": "Data is valuable. With so much sensitive information online, companies need cybersecurity pros to protect it. ",
+      "description": "Learn the basic concepts needed to identify and protect yourself against common cyber threats and attacks. You'll also gain an understanding of principles and policies, commonly used authentication/authorization techniques, and network security fundamentals.",
+      "imageCover": "sec1.jpeg",
+      "category": "Cyber Security"
+    },
+    {
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["sec3.jpg", "sec4.jpeg", "sec5.jpeg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39701c296c",
+      "name": "Cyber Security Cryptography",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 1997,
+      "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "sec2.jpeg",
+      "category": "Cyber Security"
+    },
+
+
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["sec4.jpeg", "sec5.jpeg", "sec3.jpg"],
+      "startDates": [
+        "2021-06-19T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-08-18T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda38709c2955",
+      "name": "Cyber Security Crash Course",
+      "duration": 7,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+      "price": 497,
+      "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+      "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageCover": "sec3.jpg",
+      "category": "Cyber Security"
+    },
+    {
+      "ratingsAverage": 5,
+      "ratingsQuantity": 9,
+      "images": ["sec2.jpeg", "sec1.jpeg", "sec3.jpg"],
+      "startDates": [
+        "2021-04-25T09:00:00.000Z",
+        "2021-07-20T09:00:00.000Z",
+        "2021-10-05T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2053",
+      "name": "Security Awareness Training",
+      "duration": 5,
+      "maxGroupSize": 25,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a1f292f8fb814b56fa184"
+      ],
+      "price": 397,
+      "summary": "Breathtaking hike through the Canadian Banff National Park",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageCover": "sec4.jpeg",
+      "category": "Cyber Security"
+    },
+    {
+      "ratingsAverage": 4.5,
+      "ratingsQuantity": 6,
+      "images": ["sec5.jpeg", "sec1.jpeg", "sec2.jpeg"],
+      "startDates": [
+        "2022-01-05T10:00:00.000Z",
+        "2022-02-12T10:00:00.000Z",
+        "2023-01-06T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c294a",
+      "name": "Security Features",
+      "duration": 4,
+      "maxGroupSize": 10,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21d02f8fb814b56fa189",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 997,
+      "summary": "Exciting adventure in the snow with snowboarding and skiing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+      "imageCover": "sec5.jpeg",
+      "category": "Cyber Security"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["wd1.jpg", "wd2.jpeg", "wd3.jpg"],
+      "startDates": [
+        "2021-08-05T09:00:00.000Z",
+        "2022-03-20T10:00:00.000Z",
+        "2022-08-12T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c1911",
+      "name": "Web Development Process",
+      "duration": 10,
+      "maxGroupSize": 15,
+      "difficulty": "medium",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a23412f8fb814b56fa18c",
+        "5c8a201e2f8fb814b56fa186"
+      ],
+      "price": 1497,
+      "summary": "Web development process includes all the steps that are good to take to build an attractive, effective and responsive website.",
+      "description": "Web development refers to building website and deploying on the web. Web development requires use of scripting languages both at the server end as well as at client end.",
+      "imageCover": "wd1.jpg",
+      "category": "Web Development"
+    },
+    {
+      "ratingsAverage": 4.6,
+      "ratingsQuantity": 5,
+      "images": ["wd3.jpg", "wd4.png", "wd5.jpeg"],
+      "startDates": [
+        "2021-03-11T10:00:00.000Z",
+        "2021-05-02T09:00:00.000Z",
+        "2021-06-09T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda34709c290d",
+      "name": "ReactJS courses",
+      "duration": 9,
+      "maxGroupSize": 20,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+      "price": 1197,
+      "summary": "ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components.",
+      "description": "ReactJS is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram.",
+      "imageCover": "wd2.jpeg",
+      "category": "Web Development"
+    },
+    {
+      "ratingsAverage": 3.9,
+      "ratingsQuantity": 7,
+      "images": ["wd4.png", "wd5.jpeg", "wd6.jpg"],
+      "startDates": [
+        "2021-07-19T09:00:00.000Z",
+        "2021-09-06T09:00:00.000Z",
+        "2022-03-18T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2926",
+      "name": "ExpressJS courses",
+      "duration": 14,
+      "maxGroupSize": 8,
+      "difficulty": "difficult",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a1f292f8fb814b56fa184",
+        "5c8a1f4e2f8fb814b56fa185"
+      ],
+      "price": 2997,
+      "summary": "Express is a fast, assertive, essential and moderate web framework of Node.js.",
+      "description": "Our Express.js tutorial includes all topics of Express.js such as Express.js installation on windows and linux, request object, response object, get method, post method, cookie management, scaffolding, file upload, template etc.",
+      "imageCover": "wd3.jpg",
+      "category": "Web Development"
+    },
+    {
+      "ratingsAverage": 4.8,
+      "ratingsQuantity": 6,
+      "images": ["wd1.jpg", "wd3.jpg", "wd4.png"],
+      "startDates": [
+        "2021-03-23T10:00:00.000Z",
+        "2021-10-25T09:00:00.000Z",
+        "2022-01-30T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2050",
+      "name": "Redux courses",
+      "duration": 9,
+      "maxGroupSize": 8,
+      "difficulty": "medium",
+      "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+      "price": 2997,
+      "summary": "This tutorial is intended to provide the readers with adequate knowledge on what is Redux and how it works.",
+      "description": "Redux fundamental principles help in maintaining consistency throughout your application, which makes debugging and testing easier.",
+      "imageCover": "wd4.png",
+      "category": "Web Development"
+    },
+    {
+      "ratingsAverage": 4.7,
+      "ratingsQuantity": 7,
+      "images": ["wd6.jpg", "wd2.jpeg", "wd5.jpeg"],
+      "startDates": [
+        "2021-12-16T10:00:00.000Z",
+        "2022-01-16T10:00:00.000Z",
+        "2022-12-12T10:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c2014",
+      "name": "AngularJS courses",
+      "duration": 3,
+      "maxGroupSize": 12,
+      "difficulty": "easy",
+      "guides": [
+        "5c8a21f22f8fb814b56fa18a",
+        "5c8a201e2f8fb814b56fa186",
+        "5c8a23412f8fb814b56fa18c"
+      ],
+      "price": 1497,
+      "summary": "These tutorials will help you learn the essentials of the latest version of Angular 2, starting from the basics to the advanced level.",
+      "description": "Angular is an open-source JavaScript MVC framework for the web applications. It extends the HTML and makes it dynamic. Angular is used to create Single Page Applications.",
+      "imageCover": "wd5.jpeg",
+      "category": "Web Development"
+    },
+    {
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 7,
+      "images": ["wd3.jpg", "wd4.png", "wd1.jpg"],
+      "startDates": [
+        "2021-02-12T10:00:00.000Z",
+        "2021-04-14T09:00:00.000Z",
+        "2021-09-01T09:00:00.000Z"
+      ],
+      "_id": "5c88fa8cf4afda39709c066c",
+      "name": "HTML CSS and JS courses",
+      "duration": 5,
+      "maxGroupSize": 8,
+      "difficulty": "easy",
+      "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+      "price": 1997,
+      "summary": "In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to",
+      "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! ",
+      "imageCover": "wd6.jpg",
+      "category": "Web Development"
+    }
+]

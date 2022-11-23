@@ -1,0 +1,7 @@
+//senGrid is used for sending a real email
+//browser sendgrid then create your account n start to use it
+after getting an account in sendgrid we've to go to our profile then Setup Guide
+we'should create single sender then go to email menu integrated mail then go for smtp as for nodemailer this one is working 
+good.
+For having a free real email for email testing in sendgrid techniq we've to go to the below link n we'll allowed us to generate n email ready for testing
+https://mailsac.com/  

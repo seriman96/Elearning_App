@@ -1,0 +1,24 @@
+extends base
+
+mixin navItem(link, text, icon, active)
+    //-input(type='hidden', id='top5', value='/read-5')
+    //-input(type='hidden', id='top5', value='/course-stats')
+    //-input(type='hidden', id='top5', value='/month-course')
+    li(class=`${active ? 'side-nav--active' : ''} `)
+        a(href=`${link}`)
+            svg
+                use(xlink:href=`img/icons.svg#icon-${icon}`)
+            | #{text}
+
+block content
+    main.main
+        .user-view
+            nav.user-view__menu
+                ul.side-nav
+                    +navItem('/creat_exams', 'Create exams', 'menu', true)
+                    +navItem(`#`, 'Update exams', 'map')
+                    +navItem('#', 'Delete exams', 'delete')   
+                    +navItem(`#`, 'Search exams', 'search')
+                    +navItem(`#`, 'Exams results', 'thermometer')
+                    +navItem('#', 'Top-5-cheap-courses', 'book-open')
+                    +navItem(`#`, 'Monthly course', 'calendar')

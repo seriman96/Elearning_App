@@ -1,0 +1,38 @@
+doctype html
+html
+    head
+        //- extends head block here and with a append techniq to the tour.pug
+        block head
+            meta(charset='UTF-8')
+            meta(name='viewport' content='width=device-width, initial-scale=1.0')
+            
+            title Elearning | #{title}
+            link(rel="stylesheet" href="/css/style.css")
+            link(rel='shortcut icon' type='image/png' href='/img/favicon.png')
+            link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300,300i,700')
+    body
+        //HEADER
+        //-Inclusion techn
+        include _header
+        
+        //CONTENT
+        //- extending concept means to extend base page content here to an external content
+        block content
+            h1 This is a placeholder heading.
+
+        //FOOTER
+        include _footer
+
+        //- used for using js file here
+        //- below script is used to extend axios in a global stage so we can used everywhere in project template
+        //-script(src='https://cdnjs.cloudflare.com/ajax/libs/axios/1.0.0-alpha.1/axios.min.js')
+        //-script(src='/js/mapbox.js')
+        //-script(src='/js/login.js')
+
+        //-below file contain all the code that's in all the other files n all their dependencies means all above dependencies will be in this file
+        //-script(src='/css/jsfile.js')
+        script(src='//code.jquery.com/jquery-1.9.1.js')
+        script(src='//code.jquery.com/ui/1.10.4/jquery-ui.js')
+        //-script(src='/js/jsfile.js')
+        script(src='https://js.stripe.com/v3/')
+        script(src='/js/bundle.js', nonce="12331")

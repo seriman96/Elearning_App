@@ -1,0 +1,22 @@
+stripe is used for inserting the payment module into our project.
+http://stripe.com
+http://stripe.com/docs ---> for stripe documentation from there
+we'll go to prebuilt components then checkout then server integration we'll used in our project 
+regarding to client integration that one we don't need to have access to the server
+
+for checkout server integration implementation
+1)get current tour
+2)create checkout session
+For creating checkout session we've to install the package stripe used to handling payment
+PS D:\PROJECT\Elearning> npm i stripe 
+
+3) Create session as response
+
+
+
+//the above stripe package works only for backend
+
+//for frontend we need to add the script
+script(src='https://js.stripe.com/v3/') //will permit to integrate stripe in frontend in tour.pug file n will allowed to accessible a global environment for frontend
+
+//in stripe when testing the credit card number is 4242 4242 4242 4242 n cvc nber any nber can work
